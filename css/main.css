@@ -3,7 +3,7 @@ body, html{
     margin: 0px;
 }
 body{
-    background-color: lightgray;
+    background-color: rgba(0, 0, 0, 0.473);
 }
 
 nav li{
@@ -95,12 +95,12 @@ nav a:hover{
 }
 
 .side-articles{
-    background-color:darkgray;
+    background-color:rgb(131, 206, 216);
     text-align:center;
 }
 
 .main-articles{
-    background-color:lightgray;
+    background-color:rgb(131, 206, 216);
 
 }
 
